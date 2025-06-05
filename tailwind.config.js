@@ -9,4 +9,7 @@ export default {
   },
   plugins: [],
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 64acec9 (Background Change)

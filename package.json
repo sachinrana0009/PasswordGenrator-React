@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "password-genrater",
+=======
+  "name": "bgcolor",
+>>>>>>> 64acec9 (Background Change)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +13,13 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+<<<<<<< HEAD
   "dependencies": {
+=======
+    "dependencies": {
+    "@tailwindcss/cli": "^4.1.7",
+    "@tailwindcss/vite": "^4.1.7",
+>>>>>>> 64acec9 (Background Change)
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
@@ -24,7 +34,14 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "postcss": "^8.5.3",
+<<<<<<< HEAD
     "tailwindcss": "^3.4.17",
     "vite": "^6.3.5"
   }
 }
+=======
+    "tailwindcss": "^4.1.7",
+    "vite": "^6.3.5"
+  }
+}
+>>>>>>> 64acec9 (Background Change)
